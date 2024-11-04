@@ -1,0 +1,6 @@
+tqdm~=4.66.5
+requests~=2.32.3
+beautifulsoup4~=4.12.3
+polars~=1.10.0
+yfinance~=0.2.46
+pandas~=2.2.2
